@@ -1,4 +1,4 @@
 # DataCamp
-My Data Science courses that I have completed at DataCamp.com
+My Data Science, Machine Learning, Python, SQL courses et certifications that I have completed at DataCamp.com. 
 
 
